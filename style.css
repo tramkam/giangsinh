@@ -68,7 +68,7 @@ img{
   padding-right: 50px;
   font-size: 30px;
   letter-spacing: 3px;
-}@media screen and (min-width: 480px){
+}@media screen and (min-width: 1000px){
   .letter{
     left: 10%;
     right: 10%;
